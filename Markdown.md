@@ -4,9 +4,9 @@
 ## Secondary heading
 ### Tertiary heading
 
-##Unordered lists use asterisk
+##Unordered lists use asterisk, dash, or plus sign
 
- * Remember that to get them on separate lines you need a double space at the end of the line  
-  * first item  
-  * second item  
-  * third items  
+ * Remember to put a space after the list marker before the text
+ * first item
+ * second item
+ * third items

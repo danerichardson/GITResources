@@ -5,7 +5,7 @@ Delete a GIT Repository https://help.github.com/articles/deleting-a-repository/
 
 Git Bash is the cli used for github
 
-pwd = print working directory - dispays full path to working directory
+pwd = print working directory - dispays full path to working directory/r/n
 clear = clear all commands in interface
 ls = list files and folders in current directory (dir)
 cd = change working directory

@@ -1,10 +1,10 @@
 #Basic Markdown
 
-## Headings use #
+## Headings use pound sign
 ## Secondary heading
 ### Tertiary heading
 
-##Unordered lists use *
+##Unordered lists use asterisk
   *first item
   *second item
   *third items

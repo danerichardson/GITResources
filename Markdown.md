@@ -1,8 +1,9 @@
 #Basic Markdown
 
 ## Headings use pound sign
-## Secondary heading
-### Tertiary heading
+# primary headings use one
+## Secondary heading use two
+### Tertiary heading use three
 
 ##Unordered lists use asterisk, dash, or plus sign
  * Remember to put a space after the list marker before the text
